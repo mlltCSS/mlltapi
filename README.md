@@ -1,4 +1,3 @@
 # something
 
-
-i put my python examples here
+tests/learning of my python world
